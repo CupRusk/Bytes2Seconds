@@ -1,4 +1,4 @@
-# speed2time
+# Bytes2Seconds
 
 A graphical download time calculator based on your internet connection speed.
 
